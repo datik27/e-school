@@ -16,7 +16,7 @@ body{
     padding-top: 20px;
 }
 .cal-stu{
-    width: 25px;
+    width: 20px;
     height: 20px;
     
   
@@ -24,4 +24,37 @@ body{
 .testmonial-head{
     text-align: center;
     padding-top: 40px;
+}
+.footer-style{
+    width: 100%;
+    height: auto;
+    background-color:rgb(20, 17, 17);
+    color: white;
+    padding-top: 50px;
+}
+.img-fluid{
+    height: auto;
+    width: 90%;
+    padding-left:200px;
+
+}
+.testmonial-style{
+    height: 220px;
+}
+.card-footer{
+    border: none;
+}
+footer{
+    padding-top: 80px;
+}
+.ready-learn{
+    color: tomato;
+   
+}
+#head-style{
+    color: rgb(28, 170, 28);
+}
+.online-style{
+    text-align: center;
+    background-color: grey;
 }
