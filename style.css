@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.btn{
+    border-radius: 15px;
+    background-color:lightseagreen;
+    color: white;
+    font-weight: 450;
+}
+.adjust{
+    padding-top: 20px;
+}
+.cal-stu{
+    width: 25px;
+    height: 20px;
+    
+  
+}
+.testmonial-head{
+    text-align: center;
+    padding-top: 40px;
+}
